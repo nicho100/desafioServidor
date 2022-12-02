@@ -1,0 +1,20 @@
+[
+    {
+      "Title": "Xbox Series x",
+      "price": 500,
+      "link": "url1",
+      "id": 1
+    },
+    {
+      "title": "Playstation 5",
+      "price": 550,
+      "link": "url2",
+      "id": 2
+    },
+    {
+      "title": "computadora",
+      "price": 700,
+      "link": "url3",
+      "id": 3
+    }
+]
